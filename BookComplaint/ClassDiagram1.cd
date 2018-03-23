@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BookComplaint.ComplaintManagement">
+    <Position X="3.25" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAACCAAAAAAAAAAACAABAAAAAAAAQ=</HashCode>
+      <FileName>ComplaintManagement.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Complaints" />
+      <Property Name="Clients" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Interface Name="BookComplaint.IClient">
+    <Position X="6.5" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAIAAAAAAAAQABCAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BookComplaint.IComplaint">
+    <Position X="1.75" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAgAAAAAAAAAAAAAAABAgAAAAAAAAAAAAAQACAAAAA=</HashCode>
+      <FileName>Complain.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ClientShop" />
+    </ShowAsAssociation>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

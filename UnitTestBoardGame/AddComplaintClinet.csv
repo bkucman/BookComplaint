@@ -1,0 +1,4 @@
+Topic1,Topic2,Topic3,Topic4,Expected
+Buuuu,Skandal,Nie do wiary,Ach,lp. 0 Topic: Buuuu
+Skandal,Nie do wiary,Ach,Buuuu,lp. 1 Topic: Nie do wiary
+Nie do wiary,Ach,Buuuu,Skandal,lp. 2 Topic: Buuuu
